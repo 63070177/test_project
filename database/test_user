@@ -1,0 +1,9 @@
+doctor
+  username: doctor1, password: testdoctor1
+username: doctor2, password: testdoctor2
+nurse
+  username: nurse1, password: testnurse1
+  username: nurse2, password: testnurse2
+chemist
+  username: chemist, password: testchemist
+  username: chemist2, password: testchemist2
